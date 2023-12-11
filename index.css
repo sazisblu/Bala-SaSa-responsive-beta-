@@ -457,9 +457,9 @@ ul
 
 #header-img
 {
-    width: 15%;
+    width: 28%;
     position: relative;
-    left: 70px;
+    left: 40%;
     /* top: -15px; */
     /* border: 1px red solid; */
 }
@@ -479,7 +479,7 @@ ul
     justify-content: space-evenly;
     /* background-color: #f76f73; */
     font-size: 0.9rem;
-    content: "";
+   display: none;
     text-align: justify;
   
 }
