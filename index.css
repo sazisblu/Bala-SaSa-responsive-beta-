@@ -249,7 +249,7 @@ select
   width: 345px;
 }
 
-.button1 
+#button1 
 {
     position: relative;
     top: 4vh;
@@ -265,7 +265,7 @@ select
     transition: 1s;
 }
 
-.button1:hover 
+#button1:hover 
 {
     cursor: pointer;
     background-color: #c3c3c3;
