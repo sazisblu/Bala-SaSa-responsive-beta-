@@ -6,6 +6,7 @@
     /* background-color: #d9d9d9; */
     box-sizing: border-box;
     --font:alice;
+    scroll-behavior: smooth;
 }
 
 html
@@ -27,7 +28,7 @@ body
     width: 100vw;
     border-bottom: #f76f73 1px solid;
     position: sticky;
-    top: -30px;
+    top: 0px;
     /* margin-top: -25px; */
     z-index: 100;
     background-color: #d9d9d9;
@@ -437,7 +438,7 @@ ul
     flex-direction: column;
 }
 
-@media only screen and (max-width: 600px) 
+@media only screen and (max-width: 810px) 
 {
     #header
 {
