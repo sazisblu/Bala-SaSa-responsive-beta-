@@ -469,17 +469,18 @@ ul
     display: flex;
     flex-direction: row;
     /* gap: 2vw; */
-    /* border: 1px red solid; */
+    border: 1px red solid;
     position: relative;
     left:26%;
     margin: auto 0;
-    margin-right:10px;
-    width: 40vw;
+    margin-right:100px;
+    width: 90%;
     height: 6vh;
-    justify-content: space-between;
+    justify-content: space-evenly;
     /* background-color: #f76f73; */
-    font-size: 1rem;
+    font-size: 0.9rem;
     content: "";
+    text-align: justify;
   
 }
 
